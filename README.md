@@ -2,12 +2,12 @@
 
 ## Games <i>(Click on the App Icons to view at store)</i>
 
-New Casual Game Project MVP prototype 
+#### New Casual Game Project MVP prototype at Studio Billion
 
 [<img alt="RumbleSuits MVP" width="200px" src="https://user-images.githubusercontent.com/48787064/229363141-98329738-d7af-45b7-9ee4-b3f94e4d1172.png" />](https://play.google.com/store/apps/details?id=com.Billion.RumbleSuits&gl=TR)
 
 
-Hyper-casual Game projects at Studio Billion 
+#### Hyper-casual Game projects at Studio Billion 
 
 
 [<img alt="PurrfectAdventure" width="200px" src="https://user-images.githubusercontent.com/48787064/229357685-ec092269-d4fe-4cea-b7c1-f884407c61a2.png" />](https://play.google.com/store/apps/details?id=com.Billion.PurrfectAdventure)
@@ -43,7 +43,7 @@ Hyper-casual Game projects at Studio Billion
 
 
 
-These are no longer on market.
+#### These are no longer on market.
 
 [<img alt="Roller Coaster" width="200px" src="https://user-images.githubusercontent.com/48787064/182822640-a9bf921f-f2ee-43b8-92f4-829fc4c8091a.png" />]()
 [<img alt="FarmLife" width="200px" src="https://user-images.githubusercontent.com/48787064/163346547-b0cb2f71-1838-4c89-9081-6acea03015ae.png" />]()
