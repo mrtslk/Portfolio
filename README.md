@@ -1,4 +1,6 @@
-# Portfolio  (Click on the App Icons to view at store)
+# Portfolio  
+
+## Games <i>(Click on the App Icons to view at store)</i>
 
 New Casual Game Project MVP prototype 
 
