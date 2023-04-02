@@ -1,11 +1,11 @@
-# Portfolio
+# Portfolio  (Click on the App Icons to view at store)
 
-New Casual Game Project MVP prototype
+New Casual Game Project MVP prototype 
 
 [<img alt="RumbleSuits MVP" width="200px" src="https://user-images.githubusercontent.com/48787064/229363141-98329738-d7af-45b7-9ee4-b3f94e4d1172.png" />](https://play.google.com/store/apps/details?id=com.Billion.RumbleSuits&gl=TR)
 
 
-Hyper-casual Game projects at Studio Billion (Click on the App Icon to view at store)
+Hyper-casual Game projects at Studio Billion 
 
 
 [<img alt="PurrfectAdventure" width="200px" src="https://user-images.githubusercontent.com/48787064/229357685-ec092269-d4fe-4cea-b7c1-f884407c61a2.png" />](https://play.google.com/store/apps/details?id=com.Billion.PurrfectAdventure)
